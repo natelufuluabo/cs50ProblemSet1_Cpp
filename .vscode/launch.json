@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nathankalalalufuluabo/Desktop/cs50ProblemSet1_Cpp/hello",
+      "program": "/Users/nathankalalalufuluabo/Desktop/cs50ProblemSet1_Cpp/hello/build/Debug/outDebug"
+    }
+  ]
+}
